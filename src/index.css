@@ -1,0 +1,9 @@
+:root {
+  color: #111827;
+  background: #f7f8fa;
+  font-synthesis: none;
+}
+
+#root {
+  min-height: 100vh;
+}
