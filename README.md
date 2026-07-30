@@ -1,5 +1,7 @@
 # Photo Tagger
 
+🌐 **Live Demo:** https://photo-tagger-ten.vercel.app/
+
 <p align="center">
   <img src="docs/app/Home.png" width="900" alt="Photo Tagger">
 </p>
@@ -7,12 +9,6 @@
 <h3 align="center">
 AWS Serverless Photo Management Application built with React
 </h3>
-
-<p align="center">
-  <a href="https://photo-tagger-ten.vercel.app/"><strong>🌐 Live Demo</strong></a>
-  •
-  <a href="https://github.com/kabirjuneja/photo-tagger"><strong>📂 Source Code</strong></a>
-</p>
 
 ---
 
